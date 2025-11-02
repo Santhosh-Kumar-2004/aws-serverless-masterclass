@@ -40,3 +40,17 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **dnspython** | DNS toolkit used internally by libraries like `httpx` for DNS resolution. |
 
 ---
+
+
+## 💾 Data Handling & Serialization
+
+| Library | Description |
+|----------|--------------|
+| **pydantic** | Data validation and serialization using Python type hints. Core of FastAPI’s request/response models. |
+| **pydantic-core** | Internal engine for Pydantic, optimized in Rust for performance. |
+| **typing-extensions** | Backports new Python typing features for older versions. |
+| **annotated-types** | Supports custom type annotations and metadata for Pydantic validation. |
+| **orjson** | Ultra-fast JSON parser (used instead of Python’s default `json` module). |
+| **ujson** | Another fast JSON encoder/decoder — sometimes used by FastAPI for response serialization. |
+
+---
