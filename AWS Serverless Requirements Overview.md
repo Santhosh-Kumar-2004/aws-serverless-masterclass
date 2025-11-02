@@ -62,3 +62,14 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **python-multipart** | Handles file uploads and form-data parsing in FastAPI. |
 
 ---
+
+## 🧱 CLI & Utilities
+
+| Library | Description |
+|----------|--------------|
+| **click** | Command-line interface builder used by many tools. |
+| **typer** | CLI framework (built by FastAPI creator) used for developer tools like FastAPI CLI. |
+| **fastapi-cli** | Command-line utility to manage FastAPI apps (run, create, debug). |
+| **shellingham** | Detects the current shell — helps Typer/Click tools behave correctly. |
+
+---
