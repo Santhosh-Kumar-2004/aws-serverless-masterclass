@@ -27,3 +27,16 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **pyyaml** | Handles YAML files (used in AWS configuration or SAM/CDK templates). |
 
 ---
+
+## 📬 Networking & Async Handling
+
+| Library | Description |
+|----------|--------------|
+| **anyio** | Abstraction over async frameworks (asyncio, trio), used by FastAPI for async operations. |
+| **httpx** | Modern HTTP client (like `requests`, but async) for making API calls from your Lambda. |
+| **httpcore** | Low-level core networking library used by `httpx`. |
+| **h11** | Pure-Python HTTP/1.1 protocol library used internally by Starlette and HTTP servers. |
+| **sniffio** | Detects which async library (asyncio/trio) is running. Required for async compatibility. |
+| **dnspython** | DNS toolkit used internally by libraries like `httpx` for DNS resolution. |
+
+---
