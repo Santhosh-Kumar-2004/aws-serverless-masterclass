@@ -107,3 +107,19 @@ This setup allows you to:
 - Validate inputs and output clean JSON responses
 
 ---
+
+## ☁️ In Real-Life AWS Use
+
+| Library | AWS Usage Example |
+|----------|------------------|
+| `fastapi` | Create API endpoints to serve through API Gateway. |
+| `mangum` | Connect FastAPI to Lambda’s handler for serverless deployment. |
+| `pydantic` | Validate input data in Lambda functions. |
+| `python-dotenv` | Load secrets/configs locally (instead of hardcoding). |
+| `httpx` | Call external APIs (like AWS Cognito, SNS, etc.) from Lambda. |
+| `jinja2` | Render HTML templates in AWS-hosted web apps. |
+| `rich` | Print colored debug logs to CloudWatch. |
+| `pyyaml` | Parse AWS config files (SAM, CloudFormation). |
+| `uvicorn` | Run the same app locally before deploying to Lambda. |
+
+---
