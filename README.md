@@ -35,10 +35,7 @@ aws-serverless-masterclass/
 
 ## ⛏️ Tools Used
 
-AWS Console + VS Code
-
-Python 3.x
-
-Git & GitHub
-
-AWS CLI (later for advanced automation)
+- **AWS Console + VS Code**
+- **Python 3.x**
+- **Git & GitHub**
+- **AWS CLI (later for advanced automation)**
