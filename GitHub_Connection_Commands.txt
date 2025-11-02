@@ -16,3 +16,13 @@ git push -u origin main
 
 # Check the branch
 git branch
+
+# Add the files
+git add .
+
+# Commit them
+git commit -m "Initial commit - local project setup"
+
+# Push the code
+git push -u origin main
+
