@@ -1,5 +1,5 @@
 # Use Python >= 3.11
-annotated-types==0.10.0; python_version >= '3.8'
+annotated-types==0.7.0; python_version >= '3.8'
 anyio==4.6.2; python_version >= '3.8'
 certifi==2025.9.1; python_version >= '3.6'
 click==8.1.8; python_version >= '3.7'
