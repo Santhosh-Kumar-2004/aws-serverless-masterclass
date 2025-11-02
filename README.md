@@ -56,3 +56,9 @@ aws-serverless-masterclass/
 ## 🧩 How to Run Lambda Examples
 Each Lambda function can be tested directly in the AWS Console,
 or locally using the AWS Toolkit for VS Code (optional).
+
+---
+
+# ✨ About Me
+## Santhosh — a passionate full-stack developer exploring the world of cloud computing ☁️
+### 📚 Goal: Master AWS Serverless architecture and build scalable, modern apps.
