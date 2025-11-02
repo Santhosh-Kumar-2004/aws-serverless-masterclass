@@ -16,3 +16,15 @@ This repo documents my complete hands-on learning journey through the course
 - 🧾 **Mini Projects** — Combining services into small, practical apps
 
 ---
+
+## 🏗️ Repository Structure(sample or example)
+
+```bash
+aws-serverless-masterclass/
+│
+├── lambda-examples/           # All AWS Lambda functions
+├── api-gateway-integrations/  # Lambda + API Gateway demos
+├── s3-demos/                  # S3 upload and trigger examples
+├── dynamodb-demos/            # Database integration examples
+├── theory-notes/              # Markdown notes for each service
+└── README.md                  # You are here 👋
