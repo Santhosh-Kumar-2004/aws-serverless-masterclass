@@ -1,0 +1,18 @@
+# 1️⃣ Initialize Git in your folder
+git init
+
+# 2️⃣ Add all files to commit
+git add .
+
+# 3️⃣ Commit them
+git commit -m "Initial commit - AWS Serverless learning setup"
+
+# 4️⃣ Connect your local folder to the GitHub repo
+git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+
+# 5️⃣ Push the files to GitHub
+git branch -M main
+git push -u origin main
+
+# Check the branch
+git branch
