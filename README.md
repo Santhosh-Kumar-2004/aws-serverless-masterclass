@@ -39,3 +39,14 @@ aws-serverless-masterclass/
 - **Python 3.x**
 - **Git & GitHub**
 - **AWS CLI (later for advanced automation)**
+
+--- 
+
+## 🌱 Current Learning Status
+| Service          | Progress         |
+| ---------------- | ---------------- |
+| Lambda           | ✅ Learned Basics |
+| API Gateway      | 🔜 Next Up       |
+| S3               | 🔜 Coming Soon   |
+| DynamoDB         | ⏳ Planned        |
+| IAM + CloudWatch | ⏳ Planned        |
