@@ -73,3 +73,17 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **shellingham** | Detects the current shell — helps Typer/Click tools behave correctly. |
 
 ---
+
+## 🧰 Debugging & Developer Tools
+
+| Library | Description |
+|----------|--------------|
+| **rich** | Beautiful console output formatting (colors, tables, syntax highlighting). |
+| **pygments** | Syntax highlighter used by Rich and FastAPI’s API docs. |
+| **markdown-it-py** | Markdown parser — used by FastAPI’s auto-docs (`/docs`). |
+| **mdurl** | URL parsing for Markdown links. |
+| **jinja2** | Template engine (used for rendering HTML in FastAPI). |
+| **markupsafe** | Escapes unsafe characters in HTML templates for security. |
+| **watchfiles** | Automatically reloads the app during development when files change (like `npm run dev`). |
+
+---
