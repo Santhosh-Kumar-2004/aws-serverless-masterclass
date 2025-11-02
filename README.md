@@ -50,3 +50,6 @@ aws-serverless-masterclass/
 | S3               | 🔜 Coming Soon   |
 | DynamoDB         | ⏳ Planned        |
 | IAM + CloudWatch | ⏳ Planned        |
+
+--- 
+
