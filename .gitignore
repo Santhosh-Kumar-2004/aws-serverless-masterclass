@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+.history/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# AWS & Credentials
+*.pem
+*.key
+*.crt
+.aws/
+*.zip
+
+# Logs & Caches
+*.log
+*.bak
+.cache/
+.pytest_cache/
+coverage/
+
+# Node (if any front-end work)
+node_modules/
+
+# FastAPI / Mangum artifacts
+*.sqlite3
+*.db
+*.db-journal
