@@ -17,3 +17,13 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **uvloop** | High-performance event loop for asyncio — speeds up FastAPI apps. |
 
 ---
+
+## 🧩 AWS Integration
+
+| Library | Description |
+|----------|--------------|
+| **mangum** | AWS Lambda adapter that allows FastAPI/Starlette apps to run inside AWS Lambda via API Gateway. This is the key library for **serverless deployment**. |
+| **python-dotenv** | Loads environment variables from `.env` files (useful for AWS credentials, DB URLs, etc.). |
+| **pyyaml** | Handles YAML files (used in AWS configuration or SAM/CDK templates). |
+
+---
