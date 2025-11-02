@@ -87,3 +87,12 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **watchfiles** | Automatically reloads the app during development when files change (like `npm run dev`). |
 
 ---
+
+## 🌍 Certificates & Encoding
+
+| Library | Description |
+|----------|--------------|
+| **certifi** | Provides trusted root certificates (for HTTPS connections). |
+| **idna** | Handles Internationalized Domain Names (Unicode domain names). |
+
+---
