@@ -51,5 +51,8 @@ aws-serverless-masterclass/
 | DynamoDB         | ⏳ Planned        |
 | IAM + CloudWatch | ⏳ Planned        |
 
---- 
+---
 
+## 🧩 How to Run Lambda Examples
+Each Lambda function can be tested directly in the AWS Console,
+or locally using the AWS Toolkit for VS Code (optional).
