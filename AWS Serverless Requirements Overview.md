@@ -53,3 +53,12 @@ These libraries are essential for building, running, and deploying **FastAPI** a
 | **ujson** | Another fast JSON encoder/decoder — sometimes used by FastAPI for response serialization. |
 
 ---
+
+## ✉️ Input Validation & Forms
+
+| Library | Description |
+|----------|--------------|
+| **email-validator** | Validates email addresses in Pydantic models (useful in user signups). |
+| **python-multipart** | Handles file uploads and form-data parsing in FastAPI. |
+
+---
