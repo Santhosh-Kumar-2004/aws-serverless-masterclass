@@ -28,3 +28,17 @@ aws-serverless-masterclass/
 ├── dynamodb-demos/            # Database integration examples
 ├── theory-notes/              # Markdown notes for each service
 └── README.md                  # You are here 👋
+
+```
+
+---
+
+## ⛏️ Tools Used
+
+AWS Console + VS Code
+
+Python 3.x
+
+Git & GitHub
+
+AWS CLI (later for advanced automation)
