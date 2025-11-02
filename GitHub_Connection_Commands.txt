@@ -26,3 +26,5 @@ git commit -m "Initial commit - local project setup"
 # Push the code
 git push -u origin main
 
+
+# GREAT THE CONNECTION IS DONE !!!
