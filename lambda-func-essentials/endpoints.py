@@ -13,3 +13,7 @@ def post_data():
 @router.put("")
 def put_data():
     return {"data": "Data updated successfully!"}
+
+@router.delete("")
+def delete_data():
+    return {"data": "Data deleted successfully!"}
