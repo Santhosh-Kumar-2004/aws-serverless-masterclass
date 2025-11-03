@@ -6,6 +6,8 @@ router = APIRouter(prefix="/data")
 def get_data():
     return {"data": "Data retrieved successfully!"}
 
-@router.post()
+@router.post("")
 def post_data():
     return {"data": "Data created successfully!"}
+
+@router.put()
