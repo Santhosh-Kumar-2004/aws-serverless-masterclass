@@ -10,4 +10,6 @@ def get_data():
 def post_data():
     return {"data": "Data created successfully!"}
 
-@router.put()
+@router.put("")
+def put_data():
+    return {"data": "Data updated successfully!"}
