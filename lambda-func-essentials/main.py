@@ -8,5 +8,5 @@ app = FastAPI()
 # Include routers
 app.include_router(router=router)
 
-# This is the entry point for AWS Lambda
+# This is the entry point for AWS Lambda, with Mangum
 handler = Mangum(app)
