@@ -5,7 +5,7 @@ from endpoints import router
 
 app = FastAPI()
 
-# Include routers
+# Include router inside of the Main file
 app.include_router(router=router)
 
 # This is the entry point for AWS Lambda, with Mangum
