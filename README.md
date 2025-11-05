@@ -13,7 +13,7 @@ This repo documents my complete hands-on learning journey through the course
 - 🌐 **API Gateway Integrations** — Making Lambda functions accessible online  
 - 🗂️ **S3 + DynamoDB Demos** — Real-world use cases for storage and databases  
 - 🧩 **IAM + CloudWatch** — Permissions and monitoring setups  
-- 🧾 **Mini Projects** — Combining services into small, practical apps
+- 🧾 **Mini Projects** — Combining services into small, practical apps, mini kinda projects
 
 ---
 
